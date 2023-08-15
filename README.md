@@ -1,7 +1,6 @@
 - 👋 Hi, I’m A. Ruthvik Reddy
-- 👀 I’m interested in IOT , EV's & Front-End Web Development
-- 🌱 I’m currently learning PCB design & Python  
-- 💞️ I’m looking to collaborate on Front-End Projects 
+- 👀 I’m interested in IOT , EV's & FPGA Development
+- 🌱 I’m currently learning PCB design & Verilog/VHDL  
 - 📫 How to reach me : ruthvikreddy04@gmail.com 
 
 <!---
