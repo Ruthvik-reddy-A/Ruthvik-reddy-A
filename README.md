@@ -1,7 +1,7 @@
 - 👋 Hi, I’m A. Ruthvik Reddy
 - 👀 I’m interested in IOT & FPGA Development
 - 🌱 I’m currently learning PCB design & Verilog/VHDL
--    I'm cuurently learning VLSI
+-    I'm currently learning VLSI
 - 📫 How to reach me : ruthvikreddy04@gmail.com 
 
 <!---
