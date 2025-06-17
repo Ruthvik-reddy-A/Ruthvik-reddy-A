@@ -42,7 +42,7 @@
 
 ## 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/ruthvik-reddy-a-8354301a2/)
-- Email: reddy.ruthvik0411@gmail.com
+- Email: ruthvikreddy04@gmail.com(**P**), reddy.ruthvik0411@gmail.com(**W**)
 
 ---
 
