@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Ruthvik Reddy Anthireddigari!
+[![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)
 
 ### 🚀 Passionate about VLSI | FPGA | Embedded Systems  
 🔭 Currently building expertise in **VLSI Design**, **Physical Design**, and **Design Verification**.  
@@ -9,9 +10,12 @@
 
 ## 🛠️ Skills & Interests:
 - **VLSI Design:** RTL to GDSII, Digital Design, Physical Design, Design Verification (SystemVerilog/UVM)
-- **FPGA Development:** Verilog, VHDL, Xilinx Vivado, Intel Quartus, QuestaSim, ModelSim
-- **Embedded Systems:** C Programming, Microcontrollers, Real-Time Systems, IoT Interfaces
-- **Tools:** Git, Linux, Python, KiCad, MATLAB, LabVIEW
+- **Embedded Systems:**  Microcontrollers, Real-Time Systems, IoT Interfaces
+
+
+## 🛠️ Tech Stack & Tools
+- ** VLSI & FPGA Development:** Verilog, VHDL, SystemVerilog/UVM, Xilinx Vivado, Intel Quartus, QuestaSim, ModelSim
+- **Tools:** Git, Linux, C, Python, KiCad, MATLAB, LabVIEW, Keil, LTspice. 
 
 ---
 
@@ -27,28 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruthvik-reddy-A&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruthvik-reddy-A&theme=radical" width="48%" />
-  <br />
+   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthvik-reddy-A&layout=compact&theme=radical" width="48%" />
 </p>
-
----
-
-## ✨ Highlight Projects:
-
-- 🔌 **Diode Rectifier-Based Buck Converter**  
-  _Simulated and tested a compact AC-DC converter using LTSpice & Simulink for charging applications._  
-
-- ⚙️ **Emergency Vehicle Traffic Clearing System**  
-  _Arduino + LabVIEW project using IR sensors to automate signal control for ambulances and fire trucks._  
-
-- 📡 **8051-Based LPG Gas Leakage Detector**  
-  _Developed a real-time safety system using MQ sensors, buzzer, and ADC interfacing._
-
-- 📘 **FPGA-Based Data Acquisition System**  
-  _High-speed data capture system implemented with Verilog and tested on Altera/Max V boards._
-
-- 🔋 **MCU Data Logger with EEPROM**  
-  _I2C-based EEPROM data logger designed in KiCad for logging sensor values over time._
 
 ---
 
