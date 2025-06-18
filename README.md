@@ -1,6 +1,12 @@
 # 👋 Hi there, I'm Ruthvik Reddy Anthireddigari!
 [![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/blob/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)
+ <br />
+## 🚀 Featured Projects
+[![Project: Buck Converter](https://img.shields.io/badge/Project-Buck--Converter-blue?style=flat-square)](https://github.com/Ruthvik-reddy-A/Rectifier-based-buck-converter-prototype-for-charging-applications)
+[![Project: MCU Logger](https://img.shields.io/badge/MCU--Data--Logger-KiCad-green?style=flat-square)](https://github.com/Ruthvik-reddy-A/MCU-Data-Logger)
+[![Project: Traffic Controller](https://img.shields.io/badge/Traffic--Control-Arduino--LabVIEW-yellow?style=flat-square)](https://github.com/Ruthvik-reddy-A/Traffic-Clearing-System)
+[![Project: 8051 Gas Detector](https://img.shields.io/badge/Gas--Leak--Sensor-8051--MQ6-red?style=flat-square)](https://github.com/Ruthvik-reddy-A/LPG-Gas-Detector-8051)
 
 
 ### 🚀 Passionate about VLSI | FPGA | Embedded Systems  
