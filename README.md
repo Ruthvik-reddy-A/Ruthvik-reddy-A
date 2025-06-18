@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Ruthvik Reddy Anthireddigari!
 [![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/blob/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)
+
 
 ### 🚀 Passionate about VLSI | FPGA | Embedded Systems  
 🔭 Currently building expertise in **VLSI Design**, **Physical Design**, and **Design Verification**.  
@@ -36,6 +38,7 @@
 </p>
 
 ---
+
 
 ## ✍️ Latest Side Projects:
 - **📟 Home Appliances PCB Design in KiCad**  
