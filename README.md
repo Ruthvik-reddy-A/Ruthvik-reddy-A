@@ -66,3 +66,4 @@
 
 > _“Consistency beats intensity. One commit a day keeps stagnation away.”_
 
+![](https://hit.yhype.me/github/profile?account_id=73007037)
