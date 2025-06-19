@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ruthvik Reddy Anthireddigari!
-[![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)
+<!--[![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)-->
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/blob/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)
  <br />
 <!--## 🚀 Featured Projects
