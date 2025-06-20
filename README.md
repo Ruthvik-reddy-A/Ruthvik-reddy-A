@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Ruthvik Reddy Anthireddigari!
 <!--[![](https://komarev.com/ghpvc/?username=Ruthvik-reddy-A&label=Profile%20views&color=blue&style=flat)](https://github.com/Ruthvik-reddy-A)-->
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/blob/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)
+<!--[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/blob/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)-->
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Ruthvik-reddy-A/Ruthvik-reddy-A/raw/master/Resume_Ruthvik%20Reddy%20A_graduate.pdf)
+
  <br />
 <!--## 🚀 Featured Projects
 [![Project: Buck Converter](https://img.shields.io/badge/Project-Buck--Converter-blue?style=flat-square)](https://github.com/Ruthvik-reddy-A/Rectifier-based-buck-converter-prototype-for-charging-applications)
@@ -67,3 +69,6 @@
 > _“Consistency beats intensity. One commit a day keeps stagnation away.”_
 
 ![](https://hit.yhype.me/github/profile?account_id=73007037)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruthvik-reddy-A&theme=radical)
+
