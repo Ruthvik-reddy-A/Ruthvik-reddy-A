@@ -70,11 +70,5 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=73007037)
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ruthvik-reddy-A&theme=radical" 
-    alt="Ruthvik's GitHub Streak Stats" 
-    width="48%" 
-  />
-</div>
+
 
